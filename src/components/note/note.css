@@ -1,0 +1,24 @@
+.note-container{
+    height: fit-content;
+    background-color: #e6e6e6;
+    padding: 5px;
+    margin-top: 20px;
+    margin-bottom : 20px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow-wrap:break-word ;
+    border-radius: 10px;
+    box-shadow: black 5px 5px 10px;
+    
+}
+.text-heading{
+    text-transform: uppercase;
+    font-style:oblique;
+    text-align: left;
+}
+.text-date{
+    font-style: italic;
+    text-decoration: underline;
+    text-align:right;
+}
